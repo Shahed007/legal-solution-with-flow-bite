@@ -1,0 +1,15 @@
+/* FONTS GOOGLE POPPINS & EB GARAMOND */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Poppins:wght@400;500;600&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'EB Garamond', serif !important;
+}
+
+.font-poppins {
+  font-family: 'Poppins', sans-serif;
+}
